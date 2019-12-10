@@ -1,0 +1,33 @@
+Online Assignments
+Hadoop 1 -> Done
+Hadoop 2 -> Not Done
+Hadoop 3 -> Not Done
+Hadoop 4 -> Not Done
+Hadoop 5 -> Not Done
+MongoDB 2 -> Done
+MongoDB 3 -> Done
+PowerBI 1 -> Not Done
+ML Lab 1 -> Done
+
+
+
+
+
+
+
+
+
+
+Offline Assignments
+MongoDB 1 (Practical) -> Not Submitted
+ML 1 (Theory) -> Last Date 10/12/19
+
+
+
+
+
+
+
+Total
+Lab -> 4/9
+Theory -> 0/2
