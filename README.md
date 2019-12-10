@@ -40,6 +40,7 @@ Trimester II Assignment Submission Report
         <td>5</td>
         <td>Hadoop</td>
         <td>5</td>
+        <td>Online</td>
         <td>False</td>
     </tr>
     <tr>
