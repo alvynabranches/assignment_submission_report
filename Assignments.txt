@@ -6,7 +6,7 @@ Hadoop 4 -> Not Done
 Hadoop 5 -> Not Done
 MongoDB 2 -> Done
 MongoDB 3 -> Done
-PowerBI 1 -> Not Done
+PowerBI 2 -> Not Done
 ML Lab 1 -> Done
 
 
