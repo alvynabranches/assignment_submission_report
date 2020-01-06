@@ -66,31 +66,80 @@ Trimester II Assignment Submission Report
     </tr>
     <tr>
         <td>9</td>
+        <td>MongoDB</td>
+        <td>4</td>
+        <td>Online</td>
+        <td>False</td>
+    </tr>
+    <tr>
+        <td>10</td>
         <td>PowerBI</td>
         <td>1</td>
         <td>Offline</td>
         <td>False</td>
     </tr>
     <tr>
-        <td>10</td>
+        <td>11</td>
         <td>PowerBI</td>
         <td>2</td>
         <td>Online</td>
-        <td>False</td>
+        <td>True</td>
     </tr>
     <tr>
-        <td>11</td>
+        <td>12</td>
         <td>ML Lab</td>
         <td>1</td>
         <td>Online</td>
         <td>True</td>
     </tr>
     <tr>
-        <td>12</td>
+        <td>13</td>
+        <td>ML Lab</td>
+        <td>2</td>
+        <td>Online</td>
+        <td>False</td>
+    </tr>
+    <tr>
+        <td>14</td>
+        <td>ML Lab</td>
+        <td>3</td>
+        <td>Online</td>
+        <td>False</td>
+    </tr>
+    <tr>
+        <td>15</td>
+        <td>ML Theory</td>
+        <td>4</td>
+        <td>Online</td>
+        <td>True</td>
+    </tr>
+    <tr>
+        <td>16</td>
+        <td>ML Theory</td>
+        <td>5</td>
+        <td>Online</td>
+        <td>True</td>
+    </tr>
+    <tr>
+        <td>17</td>
+        <td>ML Theory</td>
+        <td>6</td>
+        <td>Online</td>
+        <td>True</td>
+    </tr>
+    <tr>
+        <td>18</td>
+        <td>ML Theory</td>
+        <td>4</td>
+        <td>Online</td>
+        <td>True</td>
+    </tr>
+    <tr>
+        <td>19</td>
         <td>ML Theory</td>
         <td>1</td>
-        <td>Offline</td>
-        <td>False</td>
+        <td>Online</td>
+        <td>True</td>
     </tr>
     <tr>
         <td></td>
