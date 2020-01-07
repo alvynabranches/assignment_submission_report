@@ -8,6 +8,13 @@ MongoDB 2 -> Done
 MongoDB 3 -> Done
 PowerBI 2 -> Not Done
 ML Lab 1 -> Done
+ML Lab 2 -> Done
+ML Lab 3 -> Done
+ML Lab 4 -> Done
+ML Lab 5 -> Done
+ML Lab 6 -> Done
+ML Lab 7 -> Not Done
+
 
 
 
